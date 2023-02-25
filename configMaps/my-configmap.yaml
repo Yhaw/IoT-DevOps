@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: my-configmap
+data:
+  IP_ADDRESS: "192.168.59.100"
+  PORT: "30604"
